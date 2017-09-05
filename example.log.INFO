@@ -1,0 +1,12 @@
+Log file created at: 2017/08/09 13:00:36
+Running on machine: cortland
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+D0809 13:00:36.726608 25503 executable.cpp:59] DEBUG MESSAGE
+I0809 13:00:36.726608 25503 executable.cpp:59] This is a fake info message
+W0809 13:00:36.726608 25503 executable.cpp:59] Across candidates: 105
+this is an extra long warning
+
+with newlines
+    and some whitespace
+E0809 13:00:36.726608 25503 executable.cpp:59] Across candidates: 105
+F0809 13:00:36.734483 25503 executable.cpp:65] Along candidates: 89
